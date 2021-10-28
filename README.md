@@ -5,7 +5,7 @@ In this project, we pre-trained and fine-tuned BERT, RoBERTa and GPT2 from the H
 ## Dataset
 The datasets used are allpatients, zreddit, smalldataset, Reddit All, Twitter. 
 
-## Expriments
+## Experiments
 
 Out domain: 
 |Experiments |Model |Continue pretraining |Finetune |Regression (severity) /Classification|
